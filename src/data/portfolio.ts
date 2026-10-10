@@ -18,8 +18,6 @@ export const profile = {
   intro:
     'BCA student at Noida International University (known online as HyperV) focused on cybersecurity and data analytics, with hands-on experience in security projects, SQL/DBMS, Linux environments, and data-oriented problem solving. Interested in security monitoring, threat detection, data analysis, and visualization.',
   location: 'Delhi NCR, India',
-  email: 'vivekrajput7468@gmail.com',
-  phone: '+91-9835028847',
   links: {
     linkedin: 'https://www.linkedin.com/in/vsrajput45',
     github: 'https://github.com/vsrajput45',

@@ -97,9 +97,6 @@ export function ResumeSheet() {
           <h3 className="mt-1 font-display text-[clamp(1.9rem,4.4vw,3.2rem)] leading-[0.9] tracking-wide text-bone">{profile.fullName}</h3>
         </div>
         <div className="text-xs leading-relaxed text-mist sm:text-right">
-          <a href={`mailto:${profile.email}`} className="block hover:text-bone">
-            {profile.email}
-          </a>
           <a href={profile.links.linkedin} target="_blank" rel="noreferrer" className="hover:text-bone">
             LinkedIn ↗
           </a>
