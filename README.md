@@ -1,6 +1,6 @@
 # VIVEK — VS SERIES
 
-A cinematic, streaming-inspired portfolio for **Vivek Kumar**: Cybersecurity, Data Analytics, and Software Developer.
+A cinematic, streaming-inspired portfolio for **Vivek Kumar (aka HyperV_09)**: Cybersecurity, Ethical Hacking, and Security Research.
 Every section is an episode, every project is an Original, and the whole site plays like a series.
 
 > A personal portfolio with a fictional streaming-platform look. It is not affiliated with any streaming service and uses none of their logos.

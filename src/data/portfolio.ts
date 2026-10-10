@@ -8,15 +8,15 @@ export type Palette = { from: string; via: string; to: string; accent: string };
 export const profile = {
   fullName: 'Vivek Kumar',
   displayName: 'Vivek Kumar',
-  alias: 'HyperV',
+  alias: 'HyperV_09',
   firstName: 'VIVEK',
   seriesTag: 'VS SERIES',
   /** Fictional studio card shown at the very start of the opening sequence. */
   originalLabel: 'A VIVEK ORIGINAL',
-  role: 'Cybersecurity & Software Developer',
-  tagline: ['Known online as HyperV', 'Cybersecurity', 'Threat Detection', 'Software Development'],
+  role: 'Cybersecurity · Ethical Hacking · Security Research',
+  tagline: ['Known online as HyperV_09', 'Cybersecurity', 'Ethical Hacking', 'Security Research'],
   intro:
-    'BCA student at Noida International University (known online as HyperV) focused on cybersecurity and data analytics, with hands-on experience in security projects, SQL/DBMS, Linux environments, and data-oriented problem solving. Interested in security monitoring, threat detection, data analysis, and visualization.',
+    'BCA student at Noida International University (known online as HyperV_09) focused on cybersecurity and ethical hacking, with hands-on experience in security projects, SQL/DBMS, Linux environments, and threat analysis. Interested in security monitoring, threat detection, and defensive security research.',
   location: 'Delhi NCR, India',
   links: {
     linkedin: 'https://www.linkedin.com/in/vsrajput45',
